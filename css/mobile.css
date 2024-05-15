@@ -13,8 +13,11 @@
 }
 .why-us .col-left {
     width: 100%;
+    margin-bottom: 3rem;
 }
-
+.why-us .text-center{
+font-size: 3rem;
+}
 .why-us .col-right {
     width: 100%;
 }
